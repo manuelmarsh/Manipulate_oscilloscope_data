@@ -1,4 +1,5 @@
 RamanSpectroscopy
+
 A Python library for processing Raman spectroscopy data from oscilloscope CSV files. Automatically detects monochromator control signals, extracts scanned regions, converts to Raman shift, and provides peak detection and Gaussian fitting.
 
 Features
